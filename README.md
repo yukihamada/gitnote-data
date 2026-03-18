@@ -6,7 +6,8 @@
 
 | | Title | Tags |
 |---|---|---|
+| 🤖 | [Chatweb.ai](Chatweb.ai.md) | `ai` `rust` `lambda` `tier1` |
 | 🗺️ | [Yuki Hamada - プロジェクト全体像](Yuki Hamada - プロジェクト全体像.md) | `overview` `portfolio` |
 
 ---
-*1 pages total*
+*2 pages total*
