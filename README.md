@@ -6,6 +6,7 @@
 
 | | Title | Tags |
 |---|---|---|
+| ⚙️ | [開発ワークフロー](開発ワークフロー.md) | `workflow` `claude` `tools` |
 | 🪙 | [ENAI Token](ENAI Token.md) | `web3` `solana` `token` |
 | 🌙 | [SOLUNA](SOLUNA.md) | `creative` `nextjs` `tier2` |
 | 🎙️ | [Koe音声入力](Koe音声入力.md) | `hardware` `swift` `rust` `esp32` |
@@ -19,4 +20,4 @@
 | 🗺️ | [Yuki Hamada - プロジェクト全体像](Yuki Hamada - プロジェクト全体像.md) | `overview` `portfolio` |
 
 ---
-*11 pages total*
+*12 pages total*
