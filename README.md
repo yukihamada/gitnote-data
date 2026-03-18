@@ -6,6 +6,7 @@
 
 | | Title | Tags |
 |---|---|---|
+| 🎙️ | [Koe音声入力](Koe音声入力.md) | `hardware` `swift` `rust` `esp32` |
 | 🥋 | [JiuFlow](JiuFlow.md) | `bjj` `rust` `supabase` `tier1` |
 | 🦀 | [Rust移行戦略](Rust移行戦略.md) | `strategy` `rust` `migration` |
 | 🏗️ | [インフラ全体マップ](インフラ全体マップ.md) | `infra` `aws` `flyio` `hetzner` `runpod` |
@@ -16,4 +17,4 @@
 | 🗺️ | [Yuki Hamada - プロジェクト全体像](Yuki Hamada - プロジェクト全体像.md) | `overview` `portfolio` |
 
 ---
-*8 pages total*
+*9 pages total*
