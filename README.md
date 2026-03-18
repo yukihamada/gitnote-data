@@ -6,9 +6,10 @@
 
 | | Title | Tags |
 |---|---|---|
+| 🐙 | [OpenClaw AIフリート](OpenClaw AIフリート.md) | `ai` `agents` `telegram` |
 | 🏨 | [StayFlow](StayFlow.md) | `saas` `react` `supabase` `tier1` |
 | 🤖 | [Chatweb.ai](Chatweb.ai.md) | `ai` `rust` `lambda` `tier1` |
 | 🗺️ | [Yuki Hamada - プロジェクト全体像](Yuki Hamada - プロジェクト全体像.md) | `overview` `portfolio` |
 
 ---
-*3 pages total*
+*4 pages total*
