@@ -6,6 +6,7 @@
 
 | | Title | Tags |
 |---|---|---|
+| 🌙 | [SOLUNA](SOLUNA.md) | `creative` `nextjs` `tier2` |
 | 🎙️ | [Koe音声入力](Koe音声入力.md) | `hardware` `swift` `rust` `esp32` |
 | 🥋 | [JiuFlow](JiuFlow.md) | `bjj` `rust` `supabase` `tier1` |
 | 🦀 | [Rust移行戦略](Rust移行戦略.md) | `strategy` `rust` `migration` |
@@ -17,4 +18,4 @@
 | 🗺️ | [Yuki Hamada - プロジェクト全体像](Yuki Hamada - プロジェクト全体像.md) | `overview` `portfolio` |
 
 ---
-*9 pages total*
+*10 pages total*
